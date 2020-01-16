@@ -1,8 +1,8 @@
 # CoreAPI_TEST1
 Just learning the nuances of .NET Core Web API stuff...
 
-###Start up:
+##Start up:
 dotnet new webapi
 
-###runnininin:
+##runnininin:
 dotnet run 
